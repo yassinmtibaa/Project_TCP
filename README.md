@@ -77,6 +77,7 @@ quiznet-tcp/
    python client_tcp.py
    ```
    
+   
    **For network connection (different PC on same network):**
    ```bash
    python client_tcp.py 192.168.1.100
